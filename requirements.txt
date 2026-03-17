@@ -1,4 +1,0 @@
- crewai
- python-dotenv
- requests
- langchain-groq
